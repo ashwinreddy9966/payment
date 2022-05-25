@@ -1,3 +1,3 @@
 bucket = "robot-terraform-remote-state"
-key    = "mutable/cart/dev/terraform.tfstate"
+key    = "mutable/payment/dev/terraform.tfstate"
 region = "us-east-1"
