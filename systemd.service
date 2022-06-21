@@ -19,3 +19,6 @@ SyslogIdentifier=payment
 [Install]
 WantedBy=multi-user.target
 
+cart-{{ENV}}.roboshop.internal
+user-{{ENV}}.roboshop.internal
+rabbitmq-{{ENV}}.roboshop.internal
